@@ -7,7 +7,7 @@ func getVisibleName():
 	return "Dragon Wing"
 	
 func getDescription():
-	return "Cardboard cutout that has harness to carry like a backpack, this one sports dragon like wings.\nOnly cosmetic."
+	return "Cardboard cutout that has harness to carry like a backpack, this one looks like CanInBad's wings.\nOnly cosmetic."
 
 func getClothingSlot():
 	return InventorySlot.Unique

@@ -7,7 +7,8 @@ func getVisibleName():
 	return "Leaf Wing"
 	
 func getDescription():
-	return "Cardboard cutout that has harness to carry like a backpack.\nInitally created for testing, now here because of requests!\nDoesn't need 1 Platium and 30 Gold coins to buy."
+	return "Cardboard cutout that has harness to carry like a backpack.\nInitally created for testing, now here because of requests!\n"\
+	+ "Doesn\'t need 1 Platium and 30 Gold coins to buy.\nDoesn\'t need buff lizard man to be purchasable.\nDoesn\'t need to kill a certain metal band to be purchasable.\nDoesn\'t have to be at night to be purchaseable."
 
 func getClothingSlot():
 	return InventorySlot.Unique
