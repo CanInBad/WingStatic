@@ -29,3 +29,6 @@ func getRiggedParts(_character):
 
 func canDye():
 	return true
+
+func getRequiredBodypart():
+	return BodypartSlot.Body
